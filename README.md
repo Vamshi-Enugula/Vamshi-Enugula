@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on Devloping App for IOT
+- 🔭 I’m currently working on a App for IOT
 - 👋 Hi, I’m @Vamshi-Enugula
 - 👀 I’m interested in Developing Apps for Android And IOS
 - 🌱 I’m currently learning AI
